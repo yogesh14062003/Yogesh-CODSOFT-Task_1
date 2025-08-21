@@ -43,5 +43,5 @@ def calculate():
         print(f"An error occurred: {e}")
 
 # Run the calculator function
-if _name_ == "_main_":
+if __name__ == "__main__":
     calculate()
